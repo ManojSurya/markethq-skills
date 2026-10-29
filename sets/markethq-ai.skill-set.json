@@ -1,0 +1,17 @@
+{
+  "$schema": "https://skill-set.md/schema/draft/skill-set.schema.json",
+  "name": "markethq-ai",
+  "version": "0.1.0",
+  "description": "See where your brand stands against competitors in AI answers (ChatGPT, Claude, Gemini, Perplexity), on Reddit and Hacker News, and in search, and what to do next. Every skill works on its own; connect MarketHQ for weekly tracking, history and evidence.",
+  "author": { "name": "MarketHQ", "url": "https://markethq.ai" },
+  "homepage": "https://github.com/ManojSurya/markethq-skills",
+  "skills": [
+    "ManojSurya/markethq-skills@markethq-ai-visibility#v0.1.0",
+    "ManojSurya/markethq-skills@markethq-ai-reddit-leads#v0.1.0",
+    "ManojSurya/markethq-skills@markethq-ai-crawler-check#v0.1.0",
+    "ManojSurya/markethq-skills@markethq-ai-competitor-gaps#v0.1.0",
+    "ManojSurya/markethq-skills@markethq-ai-content-gaps#v0.1.0",
+    "ManojSurya/markethq-skills@markethq-ai-weekly-brief#v0.1.0",
+    "ManojSurya/markethq-skills@markethq-ai-action-loop#v0.1.0"
+  ]
+}
